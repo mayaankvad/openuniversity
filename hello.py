@@ -13,5 +13,12 @@ print("second stash")
 print("my new feature")
 
 
-#Don't be a git. Learn how to git!
+print("Hello World of GitHub!")
+print("Wasssssssssss up")
 
+value = 5
+
+print(f"{value} multiplied by 2 is: {value * 2}")
+
+
+#Don't be a git. Learn how to git!
