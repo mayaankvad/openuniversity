@@ -8,8 +8,11 @@ print("Hello World From feature/one !")
 print("Hello World From feature/one #1 !")
 print("Hello World From feature/one #2 !")
 
-
+#hello world
 print("second stash")
 print("my new feature")
 
+
 print("Ali's fork")
+
+#Don't be a git. Learn how to git!
